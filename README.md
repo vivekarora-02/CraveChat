@@ -15,7 +15,7 @@ https://youtu.be/tihBT1l-DRY
 
 ## Website Link
 
-cravechat.onrender.com/
+https://cravechat.onrender.com/
 
 ## Run Locally
 
