@@ -71,6 +71,8 @@ Start the Client
 ![](https://github.com/vivekarora-02/CraveChat/blob/master/ScreenShots/p6.png)
 ### Notifications 
 ![](https://github.com/vivekarora-02/CraveChat/blob/master/ScreenShots/p8.png)
+### View other users
+![](https://github.com/vivekarora-02/CraveChat/blob/master/ScreenShots/p7.png)
 ## Made By
 
 - [@vivekarora-02](https://github.com/vivekarora-02)
