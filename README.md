@@ -9,9 +9,13 @@ CraveChat is a Full Stack Chatting App. Uses Socket.io for real time communicati
 
 **Database:** Mongo DB
   
-## Demo
+## Demo Video
 
-https://cravechat.onrender.com/
+https://youtu.be/tihBT1l-DRY
+
+## Website Link
+
+cravechat.onrender.com/
 
 ## Run Locally
 
