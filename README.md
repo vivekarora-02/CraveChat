@@ -59,13 +59,18 @@ Start the Client
 # Features
 
 ### Authenticaton
+![](https://github.com/vivekarora-02/CraveChat/blob/master/ScreenShots/p1.png)
+![](https://github.com/vivekarora-02/CraveChat/blob/master/ScreenShots/p3.png)
 ### Real Time Chatting with Typing indicators
+![](https://github.com/vivekarora-02/CraveChat/blob/master/ScreenShots/p4.png)
 ### One to One chat
+![](https://github.com/vivekarora-02/CraveChat/blob/master/ScreenShots/p2.png)
 ### Search Users
+![](https://github.com/vivekarora-02/CraveChat/blob/master/ScreenShots/p5.png)
 ### Create Group Chats
+![](https://github.com/vivekarora-02/CraveChat/blob/master/ScreenShots/p6.png)
 ### Notifications 
-### Add or Remove users from group
-### View Other user Profile
+![](https://github.com/vivekarora-02/CraveChat/blob/master/ScreenShots/p8.png)
 ## Made By
 
 - [@vivekarora-02](https://github.com/vivekarora-02)
